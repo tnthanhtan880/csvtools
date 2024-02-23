@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVTools", "CSVTools\CSVTools.csproj", "{AB6156E1-4F27-4D78-B17D-31CE8A8782FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6156E1-4F27-4D78-B17D-31CE8A8782FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6156E1-4F27-4D78-B17D-31CE8A8782FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6156E1-4F27-4D78-B17D-31CE8A8782FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6156E1-4F27-4D78-B17D-31CE8A8782FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE7F6ED-72C5-4A9B-B2C0-C7828E05E5CC}
+	EndGlobalSection
+EndGlobal
